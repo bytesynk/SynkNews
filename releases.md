@@ -6,4 +6,4 @@
 - Added News Topics Header View
 
 ### Release
-- [a link](https://github.com/bytesynk/SynkNews/blob/master/SynkNews-v0.5.0.apk)
+- [v0.5.0](https://github.com/bytesynk/SynkNews/blob/master/SynkNews-v0.5.0.apk)
