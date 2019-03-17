@@ -1,5 +1,14 @@
 # SynkNews App releases
 
+## 0.7.0
+#### Changelog
+- Added FirstPost English and Hindi news channel
+- UI improvements
+
+
+#### Relaease
+- [v0.7.0](https://github.com/bytesynk/SynkNews/blob/master/SynkNews-v0.7.0.apk)
+
 ## 0.6.0
 #### Changelog
 - Integrated Dainik Jagran news channel
