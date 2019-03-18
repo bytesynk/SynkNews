@@ -1,5 +1,16 @@
 # SynkNews App releases
 
+
+## 0.8.0
+#### Changelog
+- Added news18 (English, Hindi, and Bangla)
+- Integrated Dark theme
+
+
+#### Relaease
+- [v0.8.0](https://github.com/bytesynk/SynkNews/blob/master/SynkNews-v0.8.0.apk)
+
+
 ## 0.7.0
 #### Changelog
 - Added FirstPost English and Hindi news channel
