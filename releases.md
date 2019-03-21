@@ -1,5 +1,13 @@
 # SynkNews App releases
 
+## 0.9.0
+#### Changelog
+- Added indices for various stock market
+- Added ABP news
+
+#### Relaease
+- [v0.9.0](https://github.com/bytesynk/SynkNews/blob/master/SynkNews-v0.9.0.apk)
+
 
 ## 0.8.0
 #### Changelog
