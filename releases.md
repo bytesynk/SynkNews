@@ -13,7 +13,7 @@
 - Enabled dark mode on About screen
 - Revamped news channels screen
 
-#### Relaease
+#### Release
 - [v0.10.0](https://github.com/bytesynk/SynkNews/blob/master/SynkNews-v0.10.0.apk)
 
 
@@ -23,7 +23,7 @@
 - Added indices for various stock market
 - Added ABP news
 
-#### Relaease
+#### Release
 - [v0.9.0](https://github.com/bytesynk/SynkNews/blob/master/SynkNews-v0.9.0.apk)
 
 
@@ -33,7 +33,7 @@
 - Integrated Dark theme
 
 
-#### Relaease
+#### Release
 - [v0.8.0](https://github.com/bytesynk/SynkNews/blob/master/SynkNews-v0.8.0.apk)
 
 
@@ -43,7 +43,7 @@
 - UI improvements
 
 
-#### Relaease
+#### Release
 - [v0.7.0](https://github.com/bytesynk/SynkNews/blob/master/SynkNews-v0.7.0.apk)
 
 ## 0.6.0
@@ -52,7 +52,7 @@
 - Added app info on About screen
 - Removed persistent Greeting message from home screen, Now only visible for some time
 
-#### Relaease
+#### Release
 - [v0.6.0](https://github.com/bytesynk/SynkNews/blob/master/SynkNews-v0.6.0.apk)
 
 
