@@ -1,5 +1,23 @@
 # SynkNews App releases
 
+
+## 0.10.0
+#### Changelog
+- Integrated following news agencies
+    - Amar Ujala
+    - Business Times
+    - Hindustan Times
+    - Indian Express
+    - Zee News
+- Now the News will be rendered even if there is no image
+- Enabled dark mode on About screen
+- Revamped news channels screen
+
+#### Relaease
+- [v0.10.0](https://github.com/bytesynk/SynkNews/blob/master/SynkNews-v0.10.0.apk)
+
+
+
 ## 0.9.0
 #### Changelog
 - Added indices for various stock market
