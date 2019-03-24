@@ -1,6 +1,15 @@
 # SynkNews App releases
 
 
+
+## 0.11.0
+#### Changelog
+- Live cricket score
+
+#### Release
+- [v0.11.0](https://github.com/bytesynk/SynkNews/blob/master/SynkNews-v0.11.0.apk)
+
+
 ## 0.10.0
 #### Changelog
 - Integrated following news agencies
@@ -15,7 +24,6 @@
 
 #### Release
 - [v0.10.0](https://github.com/bytesynk/SynkNews/blob/master/SynkNews-v0.10.0.apk)
-
 
 
 ## 0.9.0
