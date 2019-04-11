@@ -1,5 +1,12 @@
 # SynkNews App releases
 
+## 0.12.0
+#### Changelog
+- News on Home screen
+- UI improvements
+
+#### Release
+- [v0.12.0](https://github.com/bytesynk/SynkNews/blob/master/SynkNews-v0.12.0.apk)
 
 
 ## 0.11.0
